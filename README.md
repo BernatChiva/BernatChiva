@@ -9,5 +9,5 @@
 
 ### Connect with me:
 
-[<img align=”left” alt="bernat-linkedin" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/bernat-chiva-polvillo-a96095156/)
+[<img align=”left” alt="bernat-linkedin" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](www.linkedin.com/in/bernatchiva7)
 [<img align=”left” alt="bernat-ig" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://instagram.com/bernatxiva)
