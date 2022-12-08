@@ -9,11 +9,5 @@
 
 ### Connect with me:
 
-[![bernat-linkedin]("https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg")]("www.linkedin.com/in/bernatchiva")
-
-[<img alt="alt_text" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.google.com/)
-
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-[instagram]: https://instagram.com/bernatxiva
-[linkedin]: www.linkedin.com/in/bernatchiva
+[<img align=”left” alt="bernat-linkedin" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](www.linkedin.com/in/bernatchiva)
+[<img align=”left” alt="bernat-ig" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://instagram.com/bernatxiva)
