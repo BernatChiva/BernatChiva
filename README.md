@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![bernat-linkedin]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg")]("www.linkedin.com/in/bernatchiva")
+[![bernat-linkedin]("https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg")]("www.linkedin.com/in/bernatchiva")
 
 [<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 
