@@ -1,7 +1,7 @@
 ### Hi there, I'm Bernat 👋
 
 ## Newly arrived Data Scientist discovering a fascinating world!
-- 🔭 I’m currently working at Barcelona Supercomputing Center as consultant Data Scientist
+- 🔭 I’m currently working at Barcelona Supercomputing Center as Data Scientist
 - 🌱 I’m currently learning on Machine Learning techniques and Deep Learning to tackle climate change related hazards
 - 👯 I’m looking to collaborate with fellow climatologists and data scientists
 - 🤔 I’m looking for help with coding best practices, ML evaluation techniques
