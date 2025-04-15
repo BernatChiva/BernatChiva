@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Barcelona Supercomputing Center as Data Scientist
 - 🌱 I’m currently learning on Machine Learning techniques and Deep Learning to tackle climate change related hazards
 - 👯 I’m looking to collaborate with fellow climatologists and data scientists
-- 🤔 I’m looking for help with coding best practices, ML evaluation techniques
+- 🤔 I’m looking for help with coding best practices and ML evaluation techniques
 - ⚡ I'm looking to learn much more
 
 ### Connect with me:
