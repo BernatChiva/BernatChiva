@@ -1,10 +1,10 @@
 ### Hi there, I'm Bernat 👋
 
 ## Newly arrived Data Scientist discovering a fascinating world!
-- 🔭 I’m currently working at NTTDATA as consultant Data Scientist
-- 🌱 I’m currently learning on Machine Learning techniques and Deep Learning
-- 👯 I’m looking to collaborate with everyone
-- 🤔 I’m looking for help with everything
+- 🔭 I’m currently working at Barcelona Supercomputing Center as consultant Data Scientist
+- 🌱 I’m currently learning on Machine Learning techniques and Deep Learning to tackle climate change related hazards
+- 👯 I’m looking to collaborate with fellow climatologists and data scientists
+- 🤔 I’m looking for help with coding best practices, ML evaluation techniques
 - ⚡ I'm looking to learn much more
 
 ### Connect with me:
